@@ -23,7 +23,7 @@ import org.apache.camel.cdi.ContextName;
 import org.apache.camel.cdi.Uri;
 
 /**
- * Configures all our Camel routes, components, endpoints and beans
+ * Configures all our Camel routes, components, endpoints and beans...
  */
 @ContextName("myCamel")
 public class MyRoutes extends RouteBuilder {
